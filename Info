@@ -1,0 +1,12 @@
+
+https://www.codejava.net/java-se/networking/ftp/java-ftp-file-upload-tutorial-and-example
+
+Apache Commons Net API is used to download the remote file
+
+
+1)mvn clean install
+
+2)mvn spring-boot:run
+
+3)http://localhost:8080/
+
